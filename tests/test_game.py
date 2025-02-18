@@ -1,6 +1,7 @@
 # tests/test_game.py
 from game import Game
 import string
+import requests
 
 class TestGame:
     def test_game_initialization(self):
