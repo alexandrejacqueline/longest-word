@@ -1,5 +1,5 @@
 # tests/test_game.py
-from longest_word.game import Game
+from game import Game
 import string
 
 class TestGame:
